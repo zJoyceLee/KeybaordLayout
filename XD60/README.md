@@ -10,7 +10,7 @@ In Linux:
 setup.sh, First step, select **GH60 RevA/B/C**.
 
 ### Dvorak Base
-![Demo](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/dvorak_base.png)
-
-### Dvorak Final (my layout)
-![Demo](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/dvorak_final.png)
+##### Layout0
+![Demo](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/dvorak_base_layout0.png)
+##### Layout1
+![Demo](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/dvorak_base_layout1.png)
