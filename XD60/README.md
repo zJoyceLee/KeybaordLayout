@@ -10,7 +10,9 @@ In Linux:
 setup.sh, First step, select **GH60 RevA/B/C**.
 
 ### Dvorak Base
-##### Layout0
-![Demo](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/dvorak_base_layout0.png)
-##### Layout1
-![Demo](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/dvorak_base_layout1.png)
+![Dvorak Base](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/Dvorak_base.png)
+### US Base
+![US Base](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/US_base.png)
+### Function Keys
+![Function Keys](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/Function_keys.png)
+
