@@ -1,4 +1,4 @@
-# KeybaordLayout
+# Keybaord Layout
 This repo is used to store the keyboard layout Raw Data.
 
 Most for GH60
