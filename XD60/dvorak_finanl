@@ -1,0 +1,5 @@
+["Esc",{a:0},"!\n1\n\n\nF1","@\n2\n\n\nF2","#\n3\n\n\nF3","$\n4\n\n\nF4","%\n5\n\n\nF5","^\n6\n\n\nF6","&\n7\n\n\nF7","*\n8\n\n\nF8","(\n9\n\n\nF9",")\n0\n\n\nF10","{\n[\n\n\nF11","}\n]\n\n\nF12",{a:4,w:2},"Backspace"],
+[{w:1.5},"Tab",{a:0},"\"\n'\n\n\n7","<\n,\n\n\n8",">\n.\n\n\n9",{a:4},"P","Y","F","G","C","R","L","?\n/","+\n=",{w:1.5},"|\n\\"],
+[{a:0,w:1.75},"Ctrl\n\n\n\nCaps Lock","A\n\n\n\n4","O\n\n\n\n5","E\n\n\n\n6",{a:4},"U","I","D","H","T","N","S","_\n-",{w:2.25},"Enter"],
+[{w:2},"Shift",{a:0},":\n;\n\n\n1","Q\n\n\n\n2","J\n\n\n\n3",{a:4},"K","X","B","M","W","V","Z","Shift","Up","~\n`"],
+[{w:1.25},"Fn1",{w:1.25},"Win",{a:0,w:1.25},"Alt\n\n\n\n0",{a:4,w:6.25},"Space","Alt","Fn0","Left","Down","Right"]
