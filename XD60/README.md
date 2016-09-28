@@ -15,4 +15,8 @@ setup.sh, First step, select **GH60 RevA/B/C**.
 ![US Base](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/US_base.png)
 ### Function Keys
 ![Function Keys](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/Function_keys.png)
+### Fn and LED Config
+![Fn and LED Config](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/Fn%26LED.png)
+[generator .epp file](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/keymap.eep)
+
 
