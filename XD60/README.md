@@ -10,14 +10,14 @@ In Linux:
 setup.sh, First step, select **GH60 RevA/B/C**.
 
 ### Dvorak Base
-![Dvorak Base](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/Dvorak_base.png)
+![Dvorak Base](./Dvorak_base.png)
 ### US Base
-![US Base](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/US_base.png)
+![US Base](./US_base.png)
 ### Function Keys
-![Function Keys](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/Function_keys.png)
+![Function Keys](./Function_Keys.png)
 ### Fn and LED Config
-![Fn and LED Config](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/Fn_LED.png)
+![Fn and LED Config](./Fn_LED.png)
 
-[generated .epp file](https://github.com/zJoyceLee/KeybaordLayout/blob/master/XD60/keymap.eep)
+[generated .epp file](./keymap.eep)
 
 
